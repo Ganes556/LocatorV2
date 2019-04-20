@@ -1,5 +1,5 @@
 # Locator v1.0
-## Author: github.com/thelinuxchoice/locator
+## Copyright: github.com/thelinuxchoice/locator
 ## IG: instagram.com/thelinuxchoice
 ### Don't copy this code without give me the credits, nerd! 
 
@@ -18,9 +18,8 @@ Usage of Locator for attacking targets without prior mutual consent is illegal. 
 git clone https://github.com/thelinuxchoice/locator
 cd locator
 bash locator.sh
+or bash locator2.sh
 ```
-
-### Donate!
-Support the authors:
-
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+## new feature locator2 : 
+  change domain name 
+  direct link to location victim
