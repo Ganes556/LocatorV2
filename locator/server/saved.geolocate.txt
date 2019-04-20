@@ -1,0 +1,24 @@
+Latitude: -8.523450965074533
+Longitude: 115.1377396300092
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.1
+Altitude: 163.29502868652344
+Accuracy: 65
+Speed: null
+Heading: null
+Platform: iPhone
+Cores: undefined
+Memory: undefined
+Screen Height: 568
+Screen Width: 320
+Latitude: -8.5235156
+Longitude: 115.13773619999999
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Altitude: null
+Accuracy: 30
+Speed: null
+Heading: null
+Platform: Win32
+Cores: 4
+Memory: undefined
+Screen Height: 768
+Screen Width: 1366
