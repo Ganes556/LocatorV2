@@ -21,5 +21,7 @@ bash locator.sh
 or bash locator2.sh
 ```
 ## new feature locator2 : 
-  change domain name 
-  direct link to location victim
+```
+change domain name 
+direct link to location victim
+```
