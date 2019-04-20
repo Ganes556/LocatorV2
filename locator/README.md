@@ -1,9 +1,9 @@
-# Locator v1.0
 # New feature locator2 : 
 ```
 change domain name 
 direct link to location victim
 ```
+# Locator v1.0
 ## Copyright: github.com/thelinuxchoice/locator
 
 Geolocator, Ip Tracker, Device Info by URL (Serveo and Ngrok).
